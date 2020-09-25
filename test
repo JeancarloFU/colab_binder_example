@@ -1,10 +1,12 @@
-#1ra linea
+#--------------------------
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 print("--------------")
-#1da linea
+
+
+#--------------------------
 
 a=np.arange(5)
 plt.plot(a,a,'b')
