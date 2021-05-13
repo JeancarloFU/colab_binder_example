@@ -1,6 +1,6 @@
 Test repository
 
-[![badge](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/JeancarloFU/repo_test1/blob/master/tarea1.ipynb)
+[![badge](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/JeancarloFU/test1/test.ipynb)
 
 Use the `render` to open a static notebook with nbviewer.
 
