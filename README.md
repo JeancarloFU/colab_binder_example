@@ -1,13 +1,11 @@
 
 Test repository
 
-[![badge](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/JeancarloFU/test1/test.ipynb)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeancarloFU/test1/blob/master/test.ipynb)
 
 **Jup-Notebook:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/test1/master?filepath=test.ipynb)
 
-Use the `render` to open a static notebook with nbviewer.
+Use the .yml file to create an environment when using binder.
 
 **Resultados:**
 <div align="center">
