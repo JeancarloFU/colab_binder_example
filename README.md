@@ -5,7 +5,7 @@ Test repository
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeancarloFU/test1/blob/master/test.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/test1/master?filepath=test.ipynb)
+**Jup-Notebook:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/test1/master?filepath=test.ipynb)
 
 Use the `render` to open a static notebook with nbviewer.
 
