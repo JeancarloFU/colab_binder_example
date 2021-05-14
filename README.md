@@ -5,6 +5,8 @@ Test repository
 
 **Jup-Notebook:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/test1/master?filepath=test.ipynb)
 
+**Jup-Lab:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/test1/master?urlpath=lab)
+
 Use the .yml file to create an environment when using binder.
 
 **Resultados:**
