@@ -7,7 +7,6 @@ print("--------------")
 
 
 #--------------------------
-
 a=np.arange(5)
 plt.plot(a,a,'b')
 plt.text('text1')
